@@ -1,0 +1,3 @@
+[submodule "Vindo/vendor/spdlog"]
+	path = Vindo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
